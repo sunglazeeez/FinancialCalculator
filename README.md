@@ -40,7 +40,7 @@
 
 **Автори:**
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/sunglazeeez)
 
 ---
 
