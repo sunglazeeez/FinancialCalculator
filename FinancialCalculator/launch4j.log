@@ -1,0 +1,66 @@
+
+
+Version:	3.50
+CmdLine:	D:\javaPGK\FinancialCalculator\FinancialCalculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\javaPGK\FinancialCalculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\igor\scoop\apps\openjdk\current
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\igor\scoop\apps\openjdk\current\bin;C:\Users\igor\scoop\shims;C:\Users\igor\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA Community Edition 2022.2.3\bin;C:\Users\igor\.dotnet\tools;C:\Users\igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\igor\.dotnet\tools;D:\javaPGK\IDEA\IntelliJ IDEA 2023.2.2\bin;;C:\Users\igor\scoop\apps\openjdk\current\bin
+JRE paths:	C:\Users\igor\scoop\apps\openjdk\current;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\igor\scoop\apps\openjdk\current\bin;C:\Users\igor\scoop\shims;C:\Users\igor\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA Community Edition 2022.2.3\bin;C:\Users\igor\.dotnet\tools;C:\Users\igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\igor\.dotnet\tools;D:\javaPGK\IDEA\IntelliJ IDEA 2023.2.2\bin;;C:\Users\igor\scoop\apps\openjdk\current\bin
+Check launcher:	C:\Users\igor\scoop\apps\openjdk\current\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Main class:	com.sunglazeeez.financialcalculator.Main
+Info:		Classpath not defined.
+Launcher:	C:\Users\igor\scoop\apps\openjdk\current\bin\javaw.exe
+Launcher args:	-classpath "D:\javaPGK\FinancialCalculator\FinancialCalculator.exe" com.sunglazeeez.financialcalculator.Main
+Args length:	108/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\javaPGK\FinancialCalculator\FinancialCalculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\javaPGK\FinancialCalculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\igor\scoop\apps\openjdk\current
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\igor\scoop\apps\openjdk\current\bin;C:\Users\igor\scoop\shims;C:\Users\igor\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA Community Edition 2022.2.3\bin;C:\Users\igor\.dotnet\tools;C:\Users\igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\igor\.dotnet\tools;D:\javaPGK\IDEA\IntelliJ IDEA 2023.2.2\bin;;C:\Users\igor\scoop\apps\openjdk\current\bin
+JRE paths:	C:\Users\igor\scoop\apps\openjdk\current;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\igor\scoop\apps\openjdk\current\bin;C:\Users\igor\scoop\shims;C:\Users\igor\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA Community Edition 2022.2.3\bin;C:\Users\igor\.dotnet\tools;C:\Users\igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\igor\.dotnet\tools;D:\javaPGK\IDEA\IntelliJ IDEA 2023.2.2\bin;;C:\Users\igor\scoop\apps\openjdk\current\bin
+Check launcher:	C:\Users\igor\scoop\apps\openjdk\current\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Main class:	com.sunglazeeez.financialcalculator.Main
+Info:		Classpath not defined.
+Launcher:	C:\Users\igor\scoop\apps\openjdk\current\bin\javaw.exe
+Launcher args:	-classpath "D:\javaPGK\FinancialCalculator\FinancialCalculator.exe" com.sunglazeeez.financialcalculator.Main
+Args length:	108/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\javaPGK\FinancialCalculator\FinancialCalculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\javaPGK\FinancialCalculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\igor\scoop\apps\openjdk\current
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\igor\scoop\apps\openjdk\current\bin;C:\Users\igor\scoop\shims;C:\Users\igor\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA Community Edition 2022.2.3\bin;C:\Users\igor\.dotnet\tools;C:\Users\igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\igor\.dotnet\tools;D:\javaPGK\IDEA\IntelliJ IDEA 2023.2.2\bin;;C:\Users\igor\scoop\apps\openjdk\current\bin
+JRE paths:	C:\Users\igor\scoop\apps\openjdk\current;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\igor\scoop\apps\openjdk\current\bin;C:\Users\igor\scoop\shims;C:\Users\igor\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\IntelliJ IDEA Community Edition 2022.2.3\bin;C:\Users\igor\.dotnet\tools;C:\Users\igor\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\igor\.dotnet\tools;D:\javaPGK\IDEA\IntelliJ IDEA 2023.2.2\bin;;C:\Users\igor\scoop\apps\openjdk\current\bin
+Check launcher:	C:\Users\igor\scoop\apps\openjdk\current\bin\javaw.exe (OK)
+Version string: 1.020.000_002 / 64-Bit (OK)
+Main class:	com.sunglazeeez.financialcalculator.Main
+Info:		Classpath not defined.
+Launcher:	C:\Users\igor\scoop\apps\openjdk\current\bin\javaw.exe
+Launcher args:	-classpath "D:\javaPGK\FinancialCalculator\FinancialCalculator.exe" com.sunglazeeez.financialcalculator.Main
+Args length:	108/32768 chars
+Exit code:	0
